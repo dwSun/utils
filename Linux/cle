@@ -1,0 +1,6 @@
+cd /media
+rm -rvf /media/*/System\ Volume\ Information/ /media/*/RECYCLER/ /media/*/\$RECYCLE.BIN
+rm -rvf */.Trash-1000
+rm -rvf */Recycled
+
+cd -
