@@ -1,0 +1,13 @@
+#####################################
+Application startup shortcut files stored in:
+/usr/share/applications
+All files end with .desktop
+#####################################
+Chrome in linux:
+change cache to tmp:
+inside <main menu>(主菜单)
+find chromium open properties. add 
+/usr/bin/chromium %U --disk-cache-dir=/tmp
+#####################################
+
+
