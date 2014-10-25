@@ -1,0 +1,2 @@
+rsync /media/joe/K860I/ /media/joe/BackStore/SYSBackup/K860i/ -vrt --delete 
+#rsync /media/joe/K860I/ /media/joe/BackStore/SYSBackup/K860i/ -vrct --delete 
