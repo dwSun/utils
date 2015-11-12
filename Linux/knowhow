@@ -10,4 +10,9 @@ find chromium open properties. add
 /usr/bin/chromium %U --disk-cache-dir=/tmp
 #####################################
 
+Centos7 DNS Config
+vi /etc/sysconfig/network-scripts/ifcfg-eno1
+Add Dns server
+####################################
+
 
